@@ -82,14 +82,14 @@ const Data = [
       id:11,
       cat: 'Bollywood',
       image:"https://coupenyaari.in/wp-content/webp-express/webp-images/uploads/2022/06/Upcoming-Web-Series-2022-in-India-Netflix-Amazon-Prime-More-768x432.jpg.webp",
-      title: "The best upcoming Hindi web series 2022 .",
+      title: "The best web series 2022 .",
       long_description:"1. Panchayat : Season 2 of Panchayat takes us back to Phulera, as Panchayat Secretary Abhishek Tripathi continues to struggle between feeling at home and wanting more for himself. 2. Delhi Crime :  Released in 2022, Season 2, detailing a series of gruesome home invasions, is no different. In five fast-paced episodes, we go back into the world of Delhi crime and Delhi police, made very real by the standout cast, led by Shefali Shah.3. Rocket Boys : Based on the lives of Dr. Homi J. Bhabha and Dr. Vikram Sarabhai,Rocket Boys is a fascinating peek into India's formative years in the field of aeronautics. Jim Sarbh and Ishwak Singh's easy camaraderie translates well on screen and doesn't let the show drag. 4. Human : If you've ever wondered how unethical and dangerous the business of saving lives can be, Human, a show about the dark side of Indian pharma, has the answer for you. The gripping psychological thriller will compel you to binge-watch the full season, especially with Shefali Shah's portrayal of a ruthless pharma boss.5. Apharan : Much like the first season, the second season of Apharan fully embraces its over-the-top, weird world and doesn't give the very aptly cast Arunoday Singh time to breathe. There's suspense, action, that kitschy '70s vibe, and so much more that keeps fans hooked through the 11-episode run.6. Gullak : In its third season, Gullak continued to charm fans with its disarming portrayal of the middle-class Mishra family and their problems, so relatable that for many it's almost like watching their own parents and siblings on screen. In five crisp episodes, Jameel Khan, Geetanjali Kulkarni, Vaibhav Raj Gupta, and Harsh Mayar prove yet again that ordinary is not always boring.7. NCR Days : Not your average college show, NCR Days is the story of Monu, played by Nikhil Vijay, who comes to NCR from Jodhpur for an MBA, primarily so he can marry his girlfriend back home. In his journey of growing, changing, and finding himself, he makes new friends and learns some hard lessons. Writer-director Ambrish Verma doesn't just create a rich, complex world in only five episodes, but also plays a central character in the show.8. Abhay : Season 3 of Abhay continues to follow UP Police SP Abhay Pratap Singh (played by Kunal Kemmu) as he battles personal demons and solves gruesome crimes. This season differs from earlier seasons in that it pits him against one central villain — a charismatic cult leader planning mass murder, played to perfection by Vijay Raaz. Kunal's performance keeps you rooting for Abhay through some very tumultuous times.9. Campus Diaries : Featuring some very popular content creators, like Harsh Beniwal and Saloni Gaur, Campus Diaries tells the coming-of-age stories of six students at Excel University. They navigate love, life, and all the angst and challenges that come with learning how to be an adult in the real world.10. College Romance : A quintessential new-adult rom-com, College Romance continued to be a hit with fans as Season 3 released in 2022. In just five easy-to-binge episodes, love and friendship are tested amidst scandals and long-distance relationships. So, if you're not in college anymore, get ready to miss the good ol' days!"
       ,description:"1. Panchayat 2. Delhi Crime 3. Rocket Boys  4. Human 5. Apharan 6. Gullak 7. NCR Days 8. Abhay .9. Campus Diaries 10. College Romance "
     },{
       id:12,
       cat: 'Bollywood',
       image:"https://wirally.com/wp-content/uploads/2022/11/Most-Anticipated-Indian-Movies-Of-2023.jpg",
-      title: "5 Most Anticipated Indian Movies Of 2023.",
+      title: "5 Most Anticipated Movies Of 2023.",
       long_description:"1.Pushpa Allu Arjun, Rashmmika Mandanna & Fahadh Faasil starrer Pushpa became a thumping pan-India hit. After the huge blockbuster of their first installment, the makers of Pushpa are coming up with Pushpa 2 in 2023. 2.Pathaan-Shahrukh Khan’s comeback movie Pathaan is coming to theaters in 2023. Already released Glimpse of Pathan movie promises some action Directed by Siddarth Anand. 3.Tiger 3--After Tiger & Tiger Zindaa Hein, Salman Khan is coming up with Tiger 3 this year 2023. Katirina Kaif is playing the lead role and Emraan Hashmi roped in for some villain role.4. Ponniyin Selvan 2 -After the humongous hit of Ponniyin Slevan part 1, Mani Ratnam & Team is getting ready for Ponniyin Selvan 2 release in 2023. PS 2 is likely to hit theaters in April 2023.5.Kabza -Kannada star hero Upendra is coming up with Kabza movie. The big budget movie is likely to release in 2023 summer of 2023. "
       ,description:"1.Pushpa .  2.Pathaan. 3.Tiger 3 4. Ponniyin Selvan 2 5.Kabza "
     },{
@@ -117,7 +117,7 @@ const Data = [
       id:16,
       cat: 'Technology',
       image:"https://images.news18.com/ibnlive/uploads/2023/06/whatsapp-image-2023-06-08-at-15.38.00.jpeg?impolicy=website&width=0&height=0",
-      title: "Realme 11 Pro+ Review: Should You Buy For Rs 27,999?",
+      title: "Realme 11 Pro+ Review",
       long_description:"Priced under Rs 30,000 in India, this 200MP camera smartphone from Realme has a mixed bag of features. The Realme 11 Pro+ smartphone offers an attractive and appealing design. While the device has a big curved display and a good selfie camera, the rear camera struggles in low-light conditions and indoor settings. Also, the UI is confusing - thanks to pre-installed apps, excessive bloatware and ads. Overall, if you’re looking for a stylish smartphone with a curved display and a decent camera in the mid-segment, the Realme 11 Pro+ could be a suitable choice.This new mid-range Realme smartphone has a curved display panel. The Realme 11 Pro+ 5G comes with a 6.7-inch full-HD+ curved display with 120Hz refresh rate and up to 950 nits brightness, which you often see in almost all mid-range smartphones. The only plus here is the curved AMOLED display as it gives you a premium feeling and enhances the visual experience while consuming content on the screen. The Realme 11 Pro+ offers impressive colour reproduction.",
       description:"Realme 11 Pro+ is available in two storage variants: 8GB+256GB, priced at Rs 27,999 and 12GB+256GB, priced at Rs 29,999 in India. "
     },{
@@ -132,7 +132,7 @@ const Data = [
       id:18,
       cat: 'Technology',
       image:"https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/750x500/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986646/acastro_STK086_01.jpg",
-      title: "Tesla under investigation in California over Autopilot safety ",
+      title: "Tesla under investigation in California ",
       long_description:"Tesla is facing a new investigation with the California attorney general’s office looking into safety issues with the company’s Autopilot feature as well as its marketing practices, CNBC reported on Wednesday.The outlet was tipped off to the investigation by Tesla owner Greg Wester, who California Attorney General Rob Bonta’s office called to ask about his August 2022 Federal Trade Commission complaint about his Tesla’s “phantom braking” problem and what he believed to be misleading claims around the company’s Full Self-Driving (FSD) system.Tesla CEO Elon Musk’s claims about his cars’ fully driverless capabilities date back to 2016 when he said all new Tesla EVs would have the necessary hardware for it. In fact, the company has dragged its feet on it for so long that it’s now giving drivers a “one-time” transfer of their purchased upgrade to their next EV from the company.",
       description:"Tesla is facing a new investigation with the California attorney's office looking into safety issues with the company’s Autopilot feature ."
     }
@@ -156,7 +156,7 @@ const Data = [
       id:21,
       cat: 'Technology',
       image:"https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/750x500/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23318440/akrales_220309_4977_0336.jpg",
-      title: "New SEC rules put a time limit on reporting hacks ",
+      title: "New SEC rules put a time limit ",
       description:"Public companies will now have to disclose cybersecurity incidents sooner, thanks to a rule adopted by the Securities ."
       ,long_description:"Public companies will now have to disclose cybersecurity incidents sooner, thanks to a rule adopted by the Securities and Exchange Commission. Under the new policy, the SEC will require public companies to report data breaches and hacks four business days after they are discovered      Companies will have to disclose any cybersecurity incidents on a Form 8-K filing. These publicly available documents typically inform shareholders about major changes to the company — and now they’ll include a new Item 1.05 for cybersecurity incidents. The disclosure should include information on “nature, scope, and timing,” as well as “its material impact or reasonably likely” on the company. There is an exception to the four-day disclosure requirement, however. The SEC says that the disclosure can be delayed if the US attorney general determines that alerting shareholders to the incident “would pose a substantial risk to national security or public safety.”"
     }
@@ -180,7 +180,7 @@ const Data = [
       id:24,
       cat: 'Technology',
       image:"https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/750x500/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935560/acastro_STK103__03.jpg",
-      title: "Amazon’s new page alerts buyers to  unsafe products",
+      title: "Amazon’s new page alerts",
       description:"Amazon has a new place to share product recall info for products purchased on its site. ",
       long_description:"Amazon has a new place to share product recall info for products purchased on its site. The personalized alert page can help consumers learn if anything they’ve bought on Amazon has known issues that make it dangerous to keep using.Amazon says it “always proactively” notifies customers about items purchased on its site that are part of a recall or otherwise have safety alerts. But now the company is creating a dedicated place where it says customers can be more aware of recalls issued on items ordered from Amazon. Customers will also get a “personalized email” with details on the product recall, plus an alert banner plastered on their “your orders” page."
     }
@@ -188,7 +188,7 @@ const Data = [
       id:25,
       cat: 'Technology',
       image:"https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/750x500/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23962442/acastro_STK067__03.jpg",
-      title: "T-Mobile says its ultrafast 5G capable of up to 3.3Gbps",
+      title: "T-Mobile says its ultrafast ",
       long_description:"T-Mobile has started the rollout of its new 5G tech that can deliver speeds of up to 3.3Gbps using carrier aggregation, which combines four different 5G channels into one for devices that can handle it (only Samsung’s newer Galaxy S23 phones at the moment), similar to a trick used by Wi-Fi routers to create a faster connection.That’s even faster than what you’d get out of mmWave 5G, which is more heavily touted by Verizon and AT&T as also being capable of extremely high speeds — Ookla recently reported download speeds of up to 1.6Gbps in the US. However, it has limited range and device support and is easily hampered by common impediments like trees and buildings.",
       description:"T-Mobile has started the rollout of its new 5G tech that can deliver speeds of up to 3.3Gbps using carrier aggregation."
     }
@@ -236,7 +236,7 @@ const Data = [
       id:31,
       cat: 'Hollywood',
       image:"https://thedailyguardian.com/wp-content/uploads/2023/07/04-opp-dm-mobile-banner-1080x745-pl-f01-050523-1-1-1-6458870c70c1d-1.jpg",
-      title: "Oppenheimer day 6 collection:  earns total of ₹67.85 crore",
+      title: "Oppenheimer day 6 collection",
       long_description:"Oppenheimer Box Office: There is a constant fall in collections of Christopher Nolan's Oppenheimer, though not major, during the weekdays. According to a report on Sacnilk.com, the film dropped to ₹5.85 crore on Wednesday as per early estimates. It is however, performing way better than Margot Robbie and Ryan Gosling's Barbie which released on the same day in theatres last week. Cillian Murphy plays J Robert Oppenheimer, famously called the father of the atomic bomb while Emily Blunt is in the role of his wife Katherine Kitty. Matt Damon, Robert Downey Jr. and Florence Pugh also have pivotal roles in the film.",
       description:"Cillian Murphy plays J Robert Oppenheimer, famously called the father of the atomic bomb while Emily Blunt plays his wife Katherine 'Kitty'. "
     }
@@ -268,7 +268,7 @@ const Data = [
       id:35,
       cat: 'Hollywood',
       image:"https://www.hindustantimes.com/ht-img/img/2023/07/22/550x309/Invincible_season_2_official_trailer_teaser_1690017150532_1690017150695.jpeg",
-      title: "Invincible, The Wheel of Time are gearing up for the second season",
+      title: "Invincible",
       long_description:"All new episodes are set to be out for Invincible on November 3, 2023, as the teaser trailer for the sequel is now out. Based on the comics by Ryan Ottlet, Cory Walker, and Robert Kirkman, the story is showcased through Mark Grayson, an 18-year-old boy whose father is the most powerful superhero on the face of the earth. Still contemplating the scenario from Nolan's betrayal in the first season, Mark faces problems getting back to a normal life as he is confronted with all new problems in the following season.",
       description:" Cory Walker, and Robert Kirkman, the story is showcased through Mark Grayson, an 18-year-old boy whose father is the most powerful superhero on the face of the earth."
     }
@@ -300,7 +300,7 @@ const Data = [
       id:39,
       cat: 'Hollywood',
       image:"https://andersonvision.com/wp-content/uploads/2023/06/SOAC-Key-Art.jpeg",
-      title: "Son of a Critch Season 1: Premier Date, Time, Trailer ",
+      title: "Son of a Critch Season 1 ",
       long_description:"Heartfelt comedy series, Son of a Critch, explores an 11-year-old's mature perspective, using humor to connect with his limited world. Son of a Critch is the hilarious and very real story of a young Mark coming of age in the 1980s. The series is a heartfelt window in the life of a child — who is much older inside than his 11 years — using comedy and self-deprecation to win friends and connect with the small collection of people in his limited world.",
       description:"Son of a Critch is the hilarious and very real story of a young Mark coming of age in the 1980s. The series is a heartfelt window in the life of a child — who is much older inside than his 11 years"
     }
@@ -348,7 +348,7 @@ const Data = [
       id:45,
       cat: 'Hollywood',
       image:"https://www.indy100.com/media-library/emily-blunt-reveals-she-adores-having-matt-damon-as-a-neighbour.png?id=34634329&width=1200&height=600&coordinates=0%2C24%2C0%2C330",
-      title: "Matt Damon Reveals Why Kissing Scarlett Johansson Was ‘Hell’ ",
+      title: "Matt Damon Reveals Kissing Scarlett Was ‘Hell’ ",
       long_description:"Many men would quickly sign up for a chance to lock lips with Scarlett Johannson, but for Matt Damon, it was an unenjoyable task. The pair starred in the 2011 flick We Bought A Zoo, and the dramedy had a kissing scene just for them. Unfortunately, Matt, 52, said they had to film the scene right after Scarlett, now 38, ate a stinky sandwich. “I had to kiss Scarlett Johansson — can you imagine how horrible that was for me? It was hell!” he sarcastically told Emily Blunt during a July 20 video they filmed with LADbible. What happened was, we did a shot before lunch and it was this nice little two-shot that ended in the kiss. And it was really good,” he recalled. After the scene"
       ,description:"Many men would quickly sign up for a chance to lock lips with Scarlett Johannson, but for Matt Damon, it was an unenjoyable task. "
     }
@@ -356,7 +356,7 @@ const Data = [
       id:46,
       cat: 'Fitness',
       image:"https://images.everydayhealth.com/images/cycling-overview-1440x810.jpg?w=1110",
-      title: "Cycling: Health Benefits, How to Get Started",
+      title: "Cycling",
       long_description:"At its most fundamental level, cycling is simply getting on a bicycle and riding it. Any pedaling you do on that bike, whether it’s a few loops around the block or a century ride, counts as physical activity. But what makes a bike ride an intense or easy workout for you, of course, depends on your fitness level. This type of activity does build strength, particularly in the lower-body muscles like the quadriceps — but it's primarily an aerobic exercise, according to Milwaukee-based Paul Warloski, USA Cycling–certified cycling coach and ACE-certified personal trainer. ",
       description:"Any pedaling you do on that bike, whether it’s a few loops around the block or a century ride, counts as physical activity. "
     }
@@ -380,7 +380,7 @@ const Data = [
       id:49,
       cat: 'Fitness',
       image:"https://images.everydayhealth.com/images/is-the-3-2-8-barre-pilates-plan-really-a-good-workout-routine-1440x810.jpg?w=1110",
-      title: "Is the 3-2-8 Method Really a Good Workout Routine?",
+      title: "Is the 3-2-8 Method a Good Workout Routine?",
       long_description:"The fitness expert created the 3-2-8 method to help busy fitness enthusiasts get the most out of their workouts in less time, according to her Body by Barre website. It’s more of a workout plan or schedule than a specific workout, involving weekly strength training workouts plus low-impact pilates or barre workouts, and taking an average of 8,000 daily steps. According to Rose, the method offers a variety of benefits, including reduced inflammation, period cycle regulation, and weight loss.",
       description:"Rose shared a follow-up video on TikTok breaking down exactly the 3-2-8 barre Pilates method. It calls for you each week to do three weighted workouts."
     }
@@ -388,7 +388,7 @@ const Data = [
       id:50,
       cat: 'Fitness',
       image:"https://images.everydayhealth.com/images/tips-to-help-you-stick-with-exercise-when-managing-type-2-diabetes-alt-722x406.jpg?w=1110",
-      title: "7 Tips to Help You to Manage Type 2 Diabetes",
+      title: "7 Tips to Manage Type 2 Diabetes",
       long_description:"1. Take Baby Steps When Beginning an Exercise Routine If you’re a couch potato who suddenly runs 5 miles on your first day of exercise, you’ll be sore on day two — perhaps with blisters on your feet and ready to throw in the towel 2.2. Choose a Physical Activity You Enjoy Doing.-You’re also more likely to stick with your exercise plan if it’s fun, invigorating, and suits your abilities. 3. Use the Buddy System to Increase Accountability 4. Reward Yourself With Healthy Treats for Breaking a Sweat 5.Formally Schedule Your Sweat Sessions .6. Prep for Your Workouts a Day in Advance. 7. Check Your Blood Sugar Before and After Exercise",
       description:"Take Baby Steps When Beginning an Exercise Routine, Choose a Physical Activity You Enjoy Doing ,Use the Buddy System to Increase Accountability"
     }
@@ -404,7 +404,7 @@ const Data = [
       id:52,
       cat: 'Fitness',
       image:"https://images.everydayhealth.com/images/stair-climber-workout-overview-guide-1440x810.jpg?w=1110",
-      title: "Stair Climbing Workouts: Health Benefits",
+      title: "Stair Climbing Workouts",
       long_description:"Stair climbing is a type of vertical training. As the name implies, it involves ascending (walking up, or, if you’re more advanced, running up) flights of steps. It can be a type of everyday activity, exercise, or sport. Benefits are: 1.Improved Metabolic Health, 2.Better Cardiorespiratory Fitness, 3.Boosted Energy and Mood",
       description:"Stair climbing is a type of vertical training. As the name implies, it involves ascending flights of steps. It can be a type of everyday activity, exercise, or sport."
     }
@@ -412,7 +412,7 @@ const Data = [
       id:53,
       cat: 'Fitness',
       image:"https://i.ytimg.com/vi/UWR4gAh7E-c/maxresdefault.jpg",
-      title: "Guinness alert: Indian schoolgirl becomes the worlds youngest yoga instructor",
+      title: "Guinness alert",
       long_description:"Praanvi Gupta, a 7-year-old girl from India, has created a Guinness World Record by becoming the worlds youngest yoga instructor (female). She has been approved and certified as an RYT00 (Registered Yoga Teacher) by the Yoga Alliance Organisation after completing the 200-hour Yoga Teacher Training Course.According to the records website, shes even younger than the youngest yoga instructor (male) Reyansh Surani — also from India — who received his certification in July 2021, at the age of 9 years and 220 days.Praanvi, who would watch her mother practise yoga at home, began her yoga journey at the tender age of just 3.5 years. After months of observing and imitating her mother, the young girl started practising yoga on her own followed by enrolling in formal yoga classes at the age of seven .I want to spread the love of yoga to as many people as possible,” she told guinnessworldrecords.com, on her passion for teaching",
       description:"I want to spread the love of yoga to as many people as possible, she said"
     }
@@ -420,7 +420,7 @@ const Data = [
       id:54,
       cat: 'Fitness',
       image:"https://images.indianexpress.com/2023/01/workout-2.jpg?resize=450,250",
-      title: "This 10-minute workout will help keep lethargy at bay",
+      title: "10-minute workout keeps lethargy at bay",
       description:"Yasmin Karachiwala, a celebrity fitness instructor, shared an easy 10-minute workout routine that can be done anywhere, anytime!",
       long_description:"A plank pose, or Kumbhakasana, is one of the foundational poses in yoga. A high plank roll is a variation to the traditional plank pose. Singh said, “It provides stability and strength to the core muscles, which contain your oblique, lower back, and all of the side muscles. This exercise will also help enhance your twisting stability.To perform this move, go down on your fours. Make sure your hands are directly under your shoulders with your back and legs aligned in a straight line. Contract your abs and rotate and pivot towards the right. Press your hands while knocking your feet on the other side. Repeat this with the other leg as well.“Reverse lunges are an excellent way to work your hamstrings, glutes, calves and quads, while providing you with lower body strength,” said Singh. It is a great option for beginners as it is easy to control the backward motion.First, stand shoulder-width apart. Then, inhale and carefully take a big step backwards with your right foot as you bend both knees to 90 degrees, making sure your weight is distributed evenly between both legs. Now, exhale and extend both knees while transferring your weight onto your left foot. At the same time, raise your right foot to bring your knee near your chest. Lower your right leg to the starting position. Repeat this on the other side"
     }
@@ -436,7 +436,7 @@ const Data = [
       id:56,
       cat: 'Fitness',
       image:"https://imgs.search.brave.com/QekFXFm2P_iv-U5XcjMpx4z6EAqLKHPsansOvT8u-FU/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5S/MjVERGp5clB0X1VH/TXZqVmdfWThBSGFF/OCZwaWQ9QXBp",
-      title: "14 Benefits of Strength Training,Click here to know more",
+      title: "14 Benefits of Strength Training",
       long_description:"1. Makes you stronger ,2. Burns calories efficiently , 3. Decreases abdominal fat , 4. Can help you appear leaner ,5. Decreases your risk of falls,6.Lowers your risk of injury, 7.Improves heart health,8.Helps manage your blood sugar levels , 9.Promotes greater mobility and flexibility , 10.Boosts your self-esteem , 11.Makes your bones stronger , 12.Boosts your mood , 13. Improves brain health, 14. Promotes a better quality of life"
       ,description:"1. Makes you stronger ,2. Burns calories efficiently , 3. Decreases abdominal fat , 4. Can help you appear leaner ,5. Decreases your risk of falls,6.Lowers your risk of injury, 7.Improves heart health"
     }
@@ -452,7 +452,7 @@ const Data = [
       id:58,
       cat: 'Fitness',
       image:"https://images.everydayhealth.com/images/tips-for-exercising-outdoors-in-the-winter-alt-1440x810.jpg?w=1110",
-      title: "13 Winter Workout Tips for Exercising Outdoors ",
+      title: "13 Winter Workout Tips ",
       long_description:"1. Dress ‘Dry,’ Not Just ‘Warm’ ,2. Layer Up ,3. Opt for Bright Colors, 4. Protect Your Extremities ,5. Protect Your Skin ,6. Check Your Traction, 7. Do a Warm-Up First,8. Breathe Right ,9. Remove Layers as You Heat Up ,10. Drink Up ,11. Head Into the Wind — to Start ,12. Cool Down and Then Change Out of Damp Gear ,13. Avoid Certain Conditions"
       ,description:"1. Dress ‘Dry,’ Not Just ‘Warm’ ,2. Layer Up ,3. Opt for Bright Colors, 4. Protect Your Extremities ,5. Protect Your Skin ,6. Check Your Traction, 7. Do a Warm-Up First,8. Breathe Right ,9. Remove Layers as You Heat Up ,10. Drink Up ,11. Head Into the Wind — to Start ,12. Cool Down and Then Change Out of Damp Gear ,13. Avoid Certain Conditions"
     }
@@ -460,7 +460,7 @@ const Data = [
       id:59,
       cat: 'Fitness',
       image:"https://images.everydayhealth.com/images/ehfc-exercise-guide-recovery-1440x810.jpg?w=1110",
-      title: " How to Let Your Muscles Heal and Why",
+      title: " How to Let Your Muscles Heal",
       long_description:"The damage that exercise causes triggers your body’s immune system to repair that damage, explains Adam Rivadeneyra, MD, a sports medicine physician with the Hoag Orthopedic Institute and the Orthopaedic Specialty Institute in Orange, California. And when your body’s tissues — from your muscles and bones to heart and lungs — recover, they become slightly fitter than they were before. That way, the next time you perform the same workout, you won’t suffer as much damage."
       ,description:"The damage that exercise causes triggers your body’s immune system to repair that damage, explains Adam Rivadeneyra, MD, a sports medicine physician with the Hoag Orthopedic Institute and the Orthopaedic Specialty Institute in Orange, California. "
     }
@@ -484,7 +484,7 @@ const Data = [
       id:62,
       cat: 'Food',
       image:"https://images.everydayhealth.com/images/which-is-healthiest-almonds-walnuts-or-pistachios-1440x810.jpg?w=1110",
-      title: "Almonds, Walnuts, or Pistachios: Which Is the Healthiest Nut?",
+      title: "Which Is the Healthiest Nut?",
       long_description:"Nuts are a health food that’s often overlooked, despite being a staple of the human diet since hunter-gatherer days. Nuts have been shown to improve overall health when eaten regularly, according to the Cleveland Clinic, and they appear to reduce the risk of several chronic diseases. A study published in Nutrition, Metabolism, and Cardiovascular Diseases in July 2022 found that participants who ate nuts, especially walnuts, had better health markers, including lower BMI and waist circumference, and lower blood pressure, triglycerides, and fasting blood sugar.",
       description:"Nuts are a health food that’s often overlooked, despite being a staple of the human diet since hunter-gatherer days."
     }
@@ -556,7 +556,7 @@ const Data = [
       id:71,
       cat: 'Food',
       image:"https://images.everydayhealth.com/images/healthy-portable-foods-for-your-next-camping-trip-intro-1440x810.jpg?w=768",
-      title: "10 Portable Foods for Your Next Camping Trip",
+      title: "10 Portable Foods ",
       long_description:"1. Dried Oatmeal Packets Offer Healthy Carbs. 2.Peanut Butter Pouches Give You Nutrients on the Go . 3.Tuna or Chicken Packets Provide a Quick Protein Boost. 4.Protein Powder Can Balance Your Meals With a Plant-Based Option.5.Dried Fruit Is a Portable, Quick Source of Energy. 6.Shelled Pumpkin or Sunflower Seeds Offer Healthy Fat. 7.Granola or Energy Bars Offer Convenient, Portable Energy. 8.Electrolyte Tablets Can Help You Stay Hydrated. 9.Fiber-Filled, Precooked Quinoa Quick-Prep Grains Make Meal Prep a Cinch .10.Dark Chocolate Offers a Campsite Treat     "
       ,description:"1. Dried Oatmeal . 2.Peanut Butter . 3.Tuna or Chicken Packets . 4.Protein Powder .5.Dried Fruit . 6.Shelled Pumpkin or Sunflower Seeds  7.Granola or Energy Bars  8.Electrolyte Tablets   "
     }
@@ -581,7 +581,7 @@ const Data = [
       id:74,
       cat: 'Food',
       image:"https://images.everydayhealth.com/images/diet-nutrition/going-vegetarian-benefits-risks-sample-menu-722x406.jpg?w=1110 ",
-      title: "A Detailed Guide for Vegetarian Diet",
+      title: "A Guide for Vegetarian Diet",
       long_description:"Someone following a vegetarian diet eats meals focused on plants, including nuts, seeds, grains, vegetables, fruits, and legumes.right up arrow There are many different types of vegetarians, but the most traditional definition is someone who doesn’t eat meat. Types of Vegetarian Diets: 1.Lacto-ovo-vegetarians eat both eggs and dairy but no meat, poultry, or fish. 2.Lacto-vegetarians eat dairy products but no eggs, meat, poultry, or fish. 3.Ovo-vegetarians eat eggs but no dairy, meat, poultry, or fish. 4.Pescatarians eat fish but no meat or poultry.5.Semivegetarians don’t eat red meat but do eat chicken and fish. 6.Flexitarians stick to a vegetarian diet most of the time but eat meat, poultry, or fish on occasion. 7.Vegans, the strictest type of vegetarian, refrain from all animal products and animal byproducts, including dairy, eggs, honey, and things made with gelatin."
       ,description:"Someone following a vegetarian diet eats meals focused on plants, including nuts, seeds, grains, vegetables, fruits, and legumes.right up arrow There are many different types of vegetarians, but the most traditional definition is someone who doesn’t eat meat. "
     }
@@ -589,7 +589,7 @@ const Data = [
       id:75,
       cat: 'Food',
       image:"https://images.everydayhealth.com/images/what-is-the-dash-diet-1440x810.jpg?w=1110",
-      title: " A Guide to Lowering Blood Pressure with Dash Diet",
+      title: " A Guide to Lowering Blood Pressure ",
       long_description:"The DASH diet works by limiting not only sodium but also saturated fat — both of which can be detrimental to heart health, says Kimberley Rose-Francis, RDN, CDCES, a dietitian and diabetes educator in Sebring, Florida. A diet that's heavy in salt can drive up blood pressure, which puts unnecessary strain on the heart muscle, Rose-Francis says. Saturated fat, on the other hand, can increase cholesterol levels. “Cholesterol has the potential of blocking or decreasing the flow of blood to the heart,” Rose-Francis says, adding that restricted blood flow can lead to heart attack and stroke.The DASH diet also works by increasing foods that provide fiber, lean protein, and other nutrients thought to help lower blood pressure.right up arrow. People who want to lower their blood pressure should combine the diet with other healthy lifestyle approaches to manage hypertension, such as getting more exercise, losing weight, cutting back on alcohol consumption, and managing stress levels. Quitting smoking and getting plenty of sleep are also recommended and can improve your overall health"
       ,description:"The DASH diet works by limiting not only sodium but also saturated fat — both of which can be detrimental to heart health, says Kimberley Rose-Francis, RDN, CDCES, a dietitian and diabetes educator in Sebring, Florida. "
     }
@@ -597,7 +597,7 @@ const Data = [
       id:76,
       cat: 'Bollywood',
       image:"https://www.thewrap.com/wp-content/uploads/2023/06/James-Gunn-DC-Studios-DCU-Blue-Beetle.png",
-      title: "Blue Beetle : Plot, Release Date and Reviews",
+      title: "Blue Beetle ",
 
       long_description:"Jaime Reyes suddenly finds himself in possession of an ancient relic of alien biotechnology called the Scarab. When the Scarab chooses Jaime to be its symbiotic host, he's bestowed with an incredible suit of armor that's capable of extraordinary and unpredictable powers, forever changing his destiny as he becomes the superhero Blue Beetle. Blue Beetle is scheduled for theatrical release in the United States on August 18, 2023.[20] A screening in El Paso is also planned. In the United States and Canada, Blue Beetle is projected to earn $12–17 million in its opening weekend, with a projected domestic total of $27–$55 million."
       ,description:"Jaime Reyes suddenly finds himself in possession of an ancient relic of alien biotechnology called the Scarab. When the Scarab chooses Jaime to be its symbiotic host, he's bestowed with an incredible suit of armor that's capable of extraordinary and unpredictable powers."
@@ -606,7 +606,7 @@ const Data = [
       id:77,
       cat: 'Technology',
       image:"data:image/jpeg;base64,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",
-      title: "Meta Lowers Minimum Age for Quest Headsets Users",
+      title: "Meta Lowers Minimum Age",
       long_description:"launched its latest generation mixed reality headset, the Quest 3, earlier this month. The Mark Zuckerberg-led company, which currently dominates the market for Augmented Reality and Virtual Reality devices, is now lowering the minimum age for Meta Quest account users from 13 years to 10 years. With the latest development, parents can set up parent-managed Meta accounts for children aged 10 and 12 years on Meta's Quest 2 and Quest 3 headsets, starting later this year. Meta says it will not show ads to users in this age group. Also, apps that are rated safe for kids will be recommended.."
       ,description:"launched its latest generation mixed reality headset, the Quest 3, earlier this month. The Mark Zuckerberg-led company, which currently dominates the market for Augmented Reality and Virtual Reality devices"
     }
@@ -614,14 +614,14 @@ const Data = [
       id:78,
       cat: 'Food',
       image:"https://images.everydayhealth.com/images/diet-nutrition/going-vegetarian-benefits-risks-sample-menu-722x406.jpg?w=1110 ",
-      title: "A Detailed Guide to Following a Vegetarian Diet",
+      title: "Guide to Follow a Vegetarian Diet",
       long_description:"Vegetarianism isn’t nearly as uncommon as it once was. About 5 percent of American adults stick to this way of eating, and that number is on the rise, with about 23 percent of adults reporting that they’ve eaten less meat over the past 12 months. That’s probably because most experts and health organizations agree that eating more plants is a good thing, no matter how strict a vegetarian diet you follow.right up arrow Interestingly, vegetarians are inclined to live healthy lifestyles even outside of meal time. In general, they exercise more frequently and tend to live longer than nonvegetarians."
       ,description:"Vegetarianism isn’t nearly as uncommon as it once was. About 5 percent of American adults stick to this way of eating, and that number is on the rise, with about 23 percent of adults reporting that they’ve eaten less meat over the past 12 months."
     },{
       id:79,
       cat: 'Fitness',
       image:"https://images.everydayhealth.com/images/heart-health/heart-disease/heart-disease-exercise-722x406.jpg?w=1110 ",
-      title: "Why Exercise Is Good for Your Heart",
+      title: "Why Exercise Is Good for Heart",
       long_description:"Regardless of your age, weight, or physical abilities, aerobic exercise is important for your health. It improves circulation, lowers blood pressure and cholesterol, manages weight, and reduces the risk of type 2 diabetes. All of these factors lower the risk of heart disease. Additional benefits of aerobic activity include increased stamina, a stronger immune system, improved mood, and keeping you active and independent as you age. For optimal heart health, get at least 150 minutes of moderate-intensity aerobic activity or at least 75 minutes of vigorous aerobic activity per week."
       ,description:"Regardless of your age, weight, or physical abilities, aerobic exercise is important for your health. It improves circulation, lowers blood pressure and cholesterol, manages weight, and reduces the risk of type 2 diabetes. "
     }
