@@ -67,7 +67,7 @@ const Data = [
       id:9,
       cat:"Bollywood",
       image:"https://www.teahub.io/photos/full/145-1450209_sonakshi-sinha-and-akshay-kumar-in-holiday.jpg",
-      title: "Holiday- A Soldier Is Never Off Duty",
+      title: "Holiday",
       long_description:"Virat Bakshi (Akshay Kumar), an Indian Army captain along with his battalion, arrives in Mumbai to spend his holidays with his family and siblings. Virat is forced by his parents and younger sisters to meet Saiba (Sonakshi Sinha), who they choose for him to get married to. During that interaction, Virat realizes that Saiba is an old-fashioned girl. Wherein, actually Saiba was pretending forced by her parents to abide to the ceremony rituals. Saiba is a college-level boxer and a modern girl. Virat realises this and falls in love with her but Saiba does not abide. But eventually, they both fall in love with each other. Once Virat and his sub-inspector of police and mate Mukund (SUMEET RAGHAVAN) witnesses a bus explosion which they had travelled by. In no time, Virat captures the culprit who blew the bus into flames and discovers that the culprit is just an executer who is a sleeper cell who is hired to plant the bomb. To further investigations, Virat finds out that the actual terrorist mastermind behind this explosion is planning in the city a fleet of explosions in the days to come.",
       description:"Virat, a soldier, accidentally bumps into a terrorist who plans to rip apart Mumbai. He then gathers his team to protect the city ."
     },{
@@ -82,14 +82,14 @@ const Data = [
       id:11,
       cat: 'Bollywood',
       image:"https://coupenyaari.in/wp-content/webp-express/webp-images/uploads/2022/06/Upcoming-Web-Series-2022-in-India-Netflix-Amazon-Prime-More-768x432.jpg.webp",
-      title: "The best web series 2022 .",
+      title: "Indian web series 2022 .",
       long_description:"1. Panchayat : Season 2 of Panchayat takes us back to Phulera, as Panchayat Secretary Abhishek Tripathi continues to struggle between feeling at home and wanting more for himself. 2. Delhi Crime :  Released in 2022, Season 2, detailing a series of gruesome home invasions, is no different. In five fast-paced episodes, we go back into the world of Delhi crime and Delhi police, made very real by the standout cast, led by Shefali Shah.3. Rocket Boys : Based on the lives of Dr. Homi J. Bhabha and Dr. Vikram Sarabhai,Rocket Boys is a fascinating peek into India's formative years in the field of aeronautics. Jim Sarbh and Ishwak Singh's easy camaraderie translates well on screen and doesn't let the show drag. 4. Human : If you've ever wondered how unethical and dangerous the business of saving lives can be, Human, a show about the dark side of Indian pharma, has the answer for you. The gripping psychological thriller will compel you to binge-watch the full season, especially with Shefali Shah's portrayal of a ruthless pharma boss.5. Apharan : Much like the first season, the second season of Apharan fully embraces its over-the-top, weird world and doesn't give the very aptly cast Arunoday Singh time to breathe. There's suspense, action, that kitschy '70s vibe, and so much more that keeps fans hooked through the 11-episode run.6. Gullak : In its third season, Gullak continued to charm fans with its disarming portrayal of the middle-class Mishra family and their problems, so relatable that for many it's almost like watching their own parents and siblings on screen. In five crisp episodes, Jameel Khan, Geetanjali Kulkarni, Vaibhav Raj Gupta, and Harsh Mayar prove yet again that ordinary is not always boring.7. NCR Days : Not your average college show, NCR Days is the story of Monu, played by Nikhil Vijay, who comes to NCR from Jodhpur for an MBA, primarily so he can marry his girlfriend back home. In his journey of growing, changing, and finding himself, he makes new friends and learns some hard lessons. Writer-director Ambrish Verma doesn't just create a rich, complex world in only five episodes, but also plays a central character in the show.8. Abhay : Season 3 of Abhay continues to follow UP Police SP Abhay Pratap Singh (played by Kunal Kemmu) as he battles personal demons and solves gruesome crimes. This season differs from earlier seasons in that it pits him against one central villain — a charismatic cult leader planning mass murder, played to perfection by Vijay Raaz. Kunal's performance keeps you rooting for Abhay through some very tumultuous times.9. Campus Diaries : Featuring some very popular content creators, like Harsh Beniwal and Saloni Gaur, Campus Diaries tells the coming-of-age stories of six students at Excel University. They navigate love, life, and all the angst and challenges that come with learning how to be an adult in the real world.10. College Romance : A quintessential new-adult rom-com, College Romance continued to be a hit with fans as Season 3 released in 2022. In just five easy-to-binge episodes, love and friendship are tested amidst scandals and long-distance relationships. So, if you're not in college anymore, get ready to miss the good ol' days!"
       ,description:"1. Panchayat 2. Delhi Crime 3. Rocket Boys  4. Human 5. Apharan 6. Gullak 7. NCR Days 8. Abhay .9. Campus Diaries 10. College Romance "
     },{
       id:12,
       cat: 'Bollywood',
       image:"https://wirally.com/wp-content/uploads/2022/11/Most-Anticipated-Indian-Movies-Of-2023.jpg",
-      title: "5 Most Anticipated Movies Of 2023.",
+      title: "5 Anticipated Movies Of 2023.",
       long_description:"1.Pushpa Allu Arjun, Rashmmika Mandanna & Fahadh Faasil starrer Pushpa became a thumping pan-India hit. After the huge blockbuster of their first installment, the makers of Pushpa are coming up with Pushpa 2 in 2023. 2.Pathaan-Shahrukh Khan’s comeback movie Pathaan is coming to theaters in 2023. Already released Glimpse of Pathan movie promises some action Directed by Siddarth Anand. 3.Tiger 3--After Tiger & Tiger Zindaa Hein, Salman Khan is coming up with Tiger 3 this year 2023. Katirina Kaif is playing the lead role and Emraan Hashmi roped in for some villain role.4. Ponniyin Selvan 2 -After the humongous hit of Ponniyin Slevan part 1, Mani Ratnam & Team is getting ready for Ponniyin Selvan 2 release in 2023. PS 2 is likely to hit theaters in April 2023.5.Kabza -Kannada star hero Upendra is coming up with Kabza movie. The big budget movie is likely to release in 2023 summer of 2023. "
       ,description:"1.Pushpa .  2.Pathaan. 3.Tiger 3 4. Ponniyin Selvan 2 5.Kabza "
     },{
@@ -103,7 +103,7 @@ const Data = [
       id:14,
       cat: 'Bollywood',
       image:"https://www.hindustantimes.com/ht-img/img/2023/07/26/550x309/Actor-Vicky-Kaushal-was-last-seen-in-film--Zara-Ha_1690366700592.jpg",
-      title: "Vicky Kaushal completes 8 years in Bollywood",
+      title: "Vicky Kaushal completes 8 years",
       long_description:"Vicky Kaushal, known for his roles in films like Raazi and Uri: The Surgical Strike, embraces the pressures and responsibilities that come with stardom, seeing them as opportunities for growth as an artist and individual. He wants audiences to have high expectations of his work and is committed to delivering good performances. He believes that success and failure are fleeting and focuses on the process of becoming a better actor. He acknowledges that the fate of a film after its release is beyond his control and emphasizes giving his all to his work.It’s been eight years since Vicky Kaushal got into mainstream spotlight with Masaan, after doing a couple of brief roles in projects such as Bombay Velvet and Luv Shuv Te Chicken Khurana. As the film completed eight years of its release earlier this week, the actor admits that he doesn’t like to shy away from the pressures that comes with this stardom, and in fact, it only motivates him to push himself as an artiste."
       ,description:"Vicky Kaushal, known for his roles in films like Raazi and Uri: The Surgical Strike, embraces the pressures and responsibilities that come with stardom"
     },{
@@ -124,7 +124,7 @@ const Data = [
       id:17,
       cat: 'Technology',
       image:"https://duet-cdn.vox-cdn.com/thumbor/0x0:1820x1213/750x500/filters:focal(910x607:911x608):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg",
-      title: "OpenAI can’t tell if something was written by AI after all",
+      title: "OpenAI Faults recognition",
       description:"OpenAI shuttered a tool that was supposed to tell human writing from AI due to a low accuracy rate. ",
       long_description:"OpenAI shuttered a tool that was supposed to tell human writing from AI due to a low accuracy rate. In an (updated) blog, OpenAI said it decided to end its AI classifier as of July 20th. “We are working to incorporate feedback and are currently researching more effective provenance techniques for text,” the company said. As it shuts down the tool to catch AI-generated writing, OpenAI said it plans to “develop and deploy mechanisms that enable users to understand if audio or visual content is AI-generated.” There’s no word yet on what those mechanisms might be, though.OpenAI fully admitted the classifier was never very good at catching AI-generated text and warned that it could spit out false positives, aka human-written text tagged as AI-generated. OpenAI, before it added its update shutting down the tool, said the classifier could get better with more data. "
     }
@@ -132,7 +132,7 @@ const Data = [
       id:18,
       cat: 'Technology',
       image:"https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/750x500/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986646/acastro_STK086_01.jpg",
-      title: "Tesla under investigation in California ",
+      title: "Tesla under investigation ",
       long_description:"Tesla is facing a new investigation with the California attorney general’s office looking into safety issues with the company’s Autopilot feature as well as its marketing practices, CNBC reported on Wednesday.The outlet was tipped off to the investigation by Tesla owner Greg Wester, who California Attorney General Rob Bonta’s office called to ask about his August 2022 Federal Trade Commission complaint about his Tesla’s “phantom braking” problem and what he believed to be misleading claims around the company’s Full Self-Driving (FSD) system.Tesla CEO Elon Musk’s claims about his cars’ fully driverless capabilities date back to 2016 when he said all new Tesla EVs would have the necessary hardware for it. In fact, the company has dragged its feet on it for so long that it’s now giving drivers a “one-time” transfer of their purchased upgrade to their next EV from the company.",
       description:"Tesla is facing a new investigation with the California attorney's office looking into safety issues with the company’s Autopilot feature ."
     }
@@ -172,7 +172,7 @@ const Data = [
       id:23,
       cat: 'Technology',
       image:"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202306/untitled_design_56-sixteen_nine.jpg?VersionId=QoT_FHJZm73aWGnV7SWkk6L06CGvxYt4&size=690:388",
-      title: "42 per cent CEOs believe AI can destroy humanity in 5-10 years",
+      title: "AI can destroy humanity in 5-10 years?",
       long_description:"AI or artificial intelligence is the buzzword in the world of tech nowadays. While AI can be of benefit in various situations, there are drawbacks to it as well. This is what the top tech leaders of the world believe. With the advancement of AI, top tech CEOs, including Twitter and Tesla head Elon Musk, are worried about artificial intelligence taking over humanity. According to the latest survey conducted by CNN at the Yale CEO Summit earlier this week, 42 percent of of CEOs believe AI can take over humanity in the next few years.Especially now that Musk has signed an open letter that calls for a halt to the development of AI systems for at least 6 months.",
       description:" With the advancement of AI, top tech CEOs, including Twitter and Tesla head Elon Musk, are worried about artificial intelligence  "
     }
@@ -196,7 +196,7 @@ const Data = [
       id:26,
       cat: 'Technology',
       image:"https://techgossip.org/wp-content/uploads/2017/10/analytics-2697949_1280.jpg",
-      title: "5 JOBS YOU CAN DO FROM ANYWHERE",
+      title: "5 JOBS FROM ANYWHERE",
       long_description:"1 .Translator If you speak more than one language, you have a lot of opportunities to start working as a translator. This job offers the possibility to work from anywhere, and you may expect the annual salary of $44,190. 2.Freelance Writer If you have experience as a writer or if you want to start doing this job more seriously, make sure to know that it is also one of the best jobs you can do remotely. You can also deal with travel writing, and the average annual salary for this kind of job may go up to $42,120. 3.Proofreader-The annual salary for this job may go up to $49,258. Although some people may think that grammar and good command of a language are not important, they actually are, and you don’t realize it until you get to the point they need a proofreader. 4.Social Media Manager-We all already spend a lot of time on social media, so why not earn some money for that? There are many job opportunities when it comes to social media managers, as everyone today wants to promote their business online. The expected average annual salary for this position is $51,613. 5.Online Teaching-Native English speakers have a lot of opportunities when it comes to online teaching, and especially if they have a teaching English certificate. As the job is done online, you can do it from anywhere in the world, with the expected average annual salary of $55,860. "
       ,description:"1 .Translator   2.Freelance Writer  3.Proofreader. 4.Social Media Manager 5.Online Teaching "
     }
@@ -212,7 +212,7 @@ const Data = [
       id:28,
       cat: 'Technology',
       image:"https://resize.indiatvnews.com/en/resize/newbucket/730_-/2023/04/whatsapp-image-2023-04-03-at-16-1680518984.jpeg",
-      title: "Top five wireless mouse and keyboard combos ",
+      title: "Best mouse and keyboard combos ",
       long_description:"1.Logitech MK215: Rs. 1,795 The Logitech MK215 is a popular choice for those looking for an affordable wireless keyboard and mouse combo. The full-size keyboard includes low-profile keys with a silent operation, a spill-resistant design, and eight hotkeys for instant access to frequently used applications and media controls. 2.HP 200 Wireless Combo: Rs. 1,450 The HP 200 wireless combo is a great option for those who prefer a sleek and stylish design. The full-size keyboard features a slim profile, adjustable legs, and a spill-resistant design, while the mouse provides accurate tracking with a 1000 dpi optical sensor and comfortable usage with its contoured design.3.Amkette Wi-Key Plus - Rs 1,199 The Amkette Wi-Key Plus wireless combo features a full-size keyboard with chiclet keys and a comfortable mouse with a precise optical sensor. The keyboard has low-profile keys with scissor-switch technology for comfortable and quiet typing. It also has multimedia hotkeys for quick access to media controls. 4.iBall Dusky Duo 06: (Rs. 1425) The iBall Dusky Duo 06 is a budget-friendly wireless keyboard and mouse combo with a sleek and modern design. The keyboard has low-profile keys for comfortable and quiet typing and a spill-resistant design. 5.Dell KM117: (Rs. 1999) The Dell KM117 is a great option for those looking for a wireless keyboard and mouse combo with long battery life. The full-size keyboard features a chiclet-style key design with multimedia keys for easy access to media control functions."
       ,description:"1.Logitech MK215. 2.HP 200 Wireless Combo:  3.Amkette Wi-Key Plus  4.iBall Dusky Duo 06 . 5.Dell KM117 "
     }
@@ -244,7 +244,7 @@ const Data = [
       id:32,
       cat: 'Hollywood',
       image:"https://cdn.images.express.co.uk/img/dynamic/36/1200x712/4462368.jpg?r=1671310315811",
-      title: "Matt Damon reveals he refused lead role in Avatar",
+      title: "Matt Damon refused lead role in Avatar",
       long_description:"Matt Damon, who recently appeared in Christopher Nolan's Oppenheimer, says he turned down Avatar because he was shooting for the Bourne franchise.Matt Damon has revealed that he “turned down the most money an actor has ever been offered” when he said no to Sam Worthington's role in James Cameron's 2009 blockbuster fantasy epic Avatar. While he didn't confirm the amount, the reported remuneration as per the CNN report is around $250 million",
       description:"Matt Damon has revealed that he “turned down the most money an actor has ever been offered” when he said no to Avatar."
     }
@@ -252,7 +252,7 @@ const Data = [
       id:33,
       cat: 'Hollywood',
       image:"https://www.hindustantimes.com/ht-img/img/2023/07/26/550x309/kvg_1690364282057_1690364349434.jpg",
-      title: "Cillian Murphy reflects on almost playing Batman",
+      title: "Cillian Murphy reflects playing Batman",
      long_description:"Cillian Murphy opened up about having auditioned for the lead role in Christopher Nolan's Batman trilogy. He lost the part to Christian Bale.Cillian Murphy is earning rave reviews for his performance in Oppenheimer. In a new interview with GQ, the actor opened up about losing out on the leading role as Batman which went to his co-star Christian Bale. The actor lost out on the role in the trilogy but was eventually cast as the villain Dr. Jonathan Crane (aka The Scarecrow) in Batman Begins, The Dark Knight, and The Dark Knight Rises",
       description:"Cillian Murphy reveals in a new interview with GQ, about losing out on the leading role as Batman "
     }
@@ -260,7 +260,7 @@ const Data = [
       id:34,
       cat: 'Hollywood',
       image:"https://www.hindustantimes.com/ht-img/img/2023/07/26/550x309/Elon_Musk_1690359853433_1690359871477.jpg",
-      title: "Elon Musk mocks Margot Robbie's Barbie",
+      title: "Elon Musk mocks Margot's Barbie",
       long_description:"Elon Musk slammed Barbie, one of the biggest films of 2023, which grossed $337 million globally in its first weekend. Here's how internet reacted to his remark.Elon Musk has mocked the box office hit Barbie on Twitter, now called X. The Tesla founder had recently accused the film of using the term 'patriarchy' at the drop of a hat. He was responding to a Barbenheimer meme that compared Twitter to Barbie and his new X name for his social network to Oppenheimer.Elon Musk recently said, “If you take a shot every time Barbie says the word ‘patriarchy,’ you will pass out before the movie ends.” Barbie follows ‘stereotypical Barbie’ (Margot Robbie) and Ken (Ryan Gosling) as they leave Barbieland and venture into the real world following an existential crisis.",
       description:" The Tesla founder had recently accused the film of using the term 'patriarchy' at the drop of a hat"
     }
@@ -332,7 +332,7 @@ const Data = [
       id:43,
       cat: 'Hollywood',
       image:"https://i.ytimg.com/vi/ChZr4jEbZBI/maxresdefault.jpg",
-      title: "BTS Singer Jimin Plays Guitar From ‘Barbie’ ",
+      title: "BTS Plays Guitar From ‘Barbie’ ",
       long_description:"“Hi Ryan and Hi Ken, it’s Jimin. Congrats on your big release,” said the K-pop superstar in a video posted to his social media on July 24, days after Ryan Gosling upheld “the Ken Code” by giving the BTS member Ken’s guitar from the Barbie movie. Jimin, 27, showed off the instrument, which bore a white horse and the name “KEN” in the Metallica font on the body. “Thank you for this guitar. I really love it, and I look forward to watching Barbie. Go, Barbie!”"
       ,description:" K-pop superstar in a video posted to his social media on July 24, days after Ryan Gosling upheld “the Ken Code” by giving the BTS member Ken’s guitar from the Barbie movie. "
     }
@@ -340,7 +340,7 @@ const Data = [
       id:44,
       cat: 'Hollywood',
       image:"https://people.com/thmb/O0x2JBuReezW3T-P7TWlqYnYokk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/thomas-haden-church-heard-rumors-of-new-tobey-spiderman-sequel-072523-tout-55caf204ffa040b0bd5f04e536846a88.jpg",
-      title: "Spider-Man 3’ New Tobey Maguire Sequel",
+      title: "New Tobey Maguire Sequel",
       long_description:"Thomas Haden Church, 63, revealed some information about a possible future Spider-Man sequel with the original star of the 2002 film, Tobey Maguire. The actor, who played the role of villain Sandman in 2007’s Spider-Man 3 and 2021’s Spider-Man: No Way Home, said he has “heard rumors” that another installment could happen, and if it does, he’s ready to make at least a cameo. When asked by ComicBook.com which of the three live-action Spider-Men he would like his character to fight in the future, he mentioned Tobey.Well, back with Tobey, with Tobey, because that’s who I started out with,” he told the outlet. "
       ,description:"Thomas Haden Church, 63, revealed some information about a possible future Spider-Man sequel with the original star of the 2002 film, Tobey Maguire. "
     }
@@ -348,7 +348,7 @@ const Data = [
       id:45,
       cat: 'Hollywood',
       image:"https://www.indy100.com/media-library/emily-blunt-reveals-she-adores-having-matt-damon-as-a-neighbour.png?id=34634329&width=1200&height=600&coordinates=0%2C24%2C0%2C330",
-      title: "Matt Damon Reveals Kissing Scarlett Was ‘Hell’ ",
+      title: "Kissing Scarlett Was ‘Hell’ ",
       long_description:"Many men would quickly sign up for a chance to lock lips with Scarlett Johannson, but for Matt Damon, it was an unenjoyable task. The pair starred in the 2011 flick We Bought A Zoo, and the dramedy had a kissing scene just for them. Unfortunately, Matt, 52, said they had to film the scene right after Scarlett, now 38, ate a stinky sandwich. “I had to kiss Scarlett Johansson — can you imagine how horrible that was for me? It was hell!” he sarcastically told Emily Blunt during a July 20 video they filmed with LADbible. What happened was, we did a shot before lunch and it was this nice little two-shot that ended in the kiss. And it was really good,” he recalled. After the scene"
       ,description:"Many men would quickly sign up for a chance to lock lips with Scarlett Johannson, but for Matt Damon, it was an unenjoyable task. "
     }
@@ -380,7 +380,7 @@ const Data = [
       id:49,
       cat: 'Fitness',
       image:"https://images.everydayhealth.com/images/is-the-3-2-8-barre-pilates-plan-really-a-good-workout-routine-1440x810.jpg?w=1110",
-      title: "Is the 3-2-8 Method a Good Workout Routine?",
+      title: "3-2-8 Method Good Workout Routine?",
       long_description:"The fitness expert created the 3-2-8 method to help busy fitness enthusiasts get the most out of their workouts in less time, according to her Body by Barre website. It’s more of a workout plan or schedule than a specific workout, involving weekly strength training workouts plus low-impact pilates or barre workouts, and taking an average of 8,000 daily steps. According to Rose, the method offers a variety of benefits, including reduced inflammation, period cycle regulation, and weight loss.",
       description:"Rose shared a follow-up video on TikTok breaking down exactly the 3-2-8 barre Pilates method. It calls for you each week to do three weighted workouts."
     }
@@ -420,7 +420,7 @@ const Data = [
       id:54,
       cat: 'Fitness',
       image:"https://images.indianexpress.com/2023/01/workout-2.jpg?resize=450,250",
-      title: "10-minute workout keeps lethargy at bay",
+      title: "10-minute keeps lethargy at bay",
       description:"Yasmin Karachiwala, a celebrity fitness instructor, shared an easy 10-minute workout routine that can be done anywhere, anytime!",
       long_description:"A plank pose, or Kumbhakasana, is one of the foundational poses in yoga. A high plank roll is a variation to the traditional plank pose. Singh said, “It provides stability and strength to the core muscles, which contain your oblique, lower back, and all of the side muscles. This exercise will also help enhance your twisting stability.To perform this move, go down on your fours. Make sure your hands are directly under your shoulders with your back and legs aligned in a straight line. Contract your abs and rotate and pivot towards the right. Press your hands while knocking your feet on the other side. Repeat this with the other leg as well.“Reverse lunges are an excellent way to work your hamstrings, glutes, calves and quads, while providing you with lower body strength,” said Singh. It is a great option for beginners as it is easy to control the backward motion.First, stand shoulder-width apart. Then, inhale and carefully take a big step backwards with your right foot as you bend both knees to 90 degrees, making sure your weight is distributed evenly between both legs. Now, exhale and extend both knees while transferring your weight onto your left foot. At the same time, raise your right foot to bring your knee near your chest. Lower your right leg to the starting position. Repeat this on the other side"
     }
@@ -468,7 +468,7 @@ const Data = [
       id:60,
       cat: 'Fitness',
       image:"https://images.everydayhealth.com/images/heart-health/heart-disease/heart-disease-exercise-722x406.jpg?w=1110 ",
-      title: "Why Exercise Is Good for Your Heart",
+      title: "Why Exercise Is Good ",
       long_description:"Regardless of your age, weight, or physical abilities, aerobic exercise is important for your health. It improves circulation, lowers blood pressure and cholesterol, manages weight, and reduces the risk of type 2 diabetes. All of these factors lower the risk of heart disease. Additional benefits of aerobic activity include increased stamina, a stronger immune system, improved mood, and keeping you active and independent as you age. For optimal heart health, get at least 150 minutes of moderate-intensity aerobic activity or at least 75 minutes of vigorous aerobic activity per week."
       ,description:"Regardless of your age, weight, or physical abilities, aerobic exercise is important for your health. It improves circulation, lowers blood pressure and cholesterol, manages weight, and reduces the risk of type 2 diabetes. "
     }
